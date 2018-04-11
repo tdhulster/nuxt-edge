@@ -5,9 +5,9 @@
 ## Bug reproduction
 
 ### versions
-node    : 9.11.1
-npm     : 5.8.0
-vue-cli : 2.9.3
+- node    : 9.11.1
+- npm     : 5.8.0
+- vue-cli : 2.9.3
 
 
 ### Steps to reproduce:
