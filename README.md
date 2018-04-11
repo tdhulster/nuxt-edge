@@ -1,0 +1,2 @@
+# nuxt-edge
+nuxt-edge
