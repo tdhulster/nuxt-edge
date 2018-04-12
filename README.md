@@ -2,6 +2,8 @@
 
 > Nuxt.js project to file a bug report
 
+# FIXED : https://github.com/nuxt/nuxt.js/issues/3216#issuecomment-380777572
+
 ## Bug reproduction
 
 ### versions
